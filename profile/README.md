@@ -9,6 +9,7 @@ A suite of tools to help solve the most important marine problems in India using
 - Primarily open source. Hosted on Github. Available for everyone to use freely.
 
 **Need**
+> Alone we can do so little; Together we can do so much - Hellen Keller
 
 There are already motivated founders and people in NGOs building organisations to work towards conservation. These organisations are made up of passionate people who have strong domain and marine knowledge.
 
@@ -24,4 +25,4 @@ Find us occasionally writing here: https://reefbuilder.substack.com/
 
 Our notes on almost everything are open source too and can be found here: https://sleet-metacarpal-b16.notion.site/ReefBuilder-98c55be87b1c492e95521e0ea6a1d4ad?pvs=4
 
-_Picked this up from the way https://www.nozdrenkov.com/ (Sergei Nozdrenkov) is doing things_
+_Picked this up ̨from the way https://www.nozdrenkov.com/ (Sergei Nozdrenkov) is doing things_
