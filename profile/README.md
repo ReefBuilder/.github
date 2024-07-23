@@ -27,6 +27,6 @@ Our notes on almost everything are open source too and can be found here: https:
 
 _Picked this up from the way https://www.nozdrenkov.com/ (Sergei Nozdrenkov) is doing things_
 
-**Who we Have Been Working With** 
+**Clients/Partners** 
 
 [![Coastal Impact Logo](https://media.licdn.com/dms/image/D4D0BAQE49p4Vwl7A1Q/company-logo_200_200/0/1665992526803?e=1729728000&v=beta&t=tPwRnl7F-9Kt6gXMSPIDFpBYb2WyzmrrY8qEKg2x2wo)](https://www.instagram.com/coastalimpact/)
