@@ -30,3 +30,5 @@ _Picked this up from the way https://www.nozdrenkov.com/ (Sergei Nozdrenkov) is 
 **Clients/Partners** 
 
 [![Coastal Impact Logo](https://media.licdn.com/dms/image/D4D0BAQE49p4Vwl7A1Q/company-logo_200_200/0/1665992526803?e=1729728000&v=beta&t=tPwRnl7F-9Kt6gXMSPIDFpBYb2WyzmrrY8qEKg2x2wo)](https://www.instagram.com/coastalimpact/)
+[![Terra Conscious Logo](https://static.wixstatic.com/media/699b9c_4411508b8e4347b5abd036e1bcb66ea4~mv2.png/v1/crop/x_0,y_18,w_400,h_357/fill/w_214,h_176,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ugh.png)]([https://www.instagram.com/coastalimpact/](https://www.instagram.com/terraconscious/))
+
